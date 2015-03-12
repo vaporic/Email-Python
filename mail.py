@@ -1,3 +1,5 @@
+# Dev Hugo Espinosa
+
 import smtplib, getpass
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
