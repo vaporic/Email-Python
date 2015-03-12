@@ -22,7 +22,7 @@ gmail.starttls()
 # Credenciales del usuario:
 gmail.login(user, password)
 
-# Muestra la depuración (a medida que se envia el email)
+# Muestra la depuracion (a medida que se envia el email)
 gmail.set_debuglevel(1) # 1 = True
 
 # Cabecera de email
